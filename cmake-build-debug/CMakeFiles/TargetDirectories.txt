@@ -1,0 +1,3 @@
+/home/paul/Desktop/Gen_sourceCode/cmake-build-debug/CMakeFiles/Clion_Projects_.dir
+/home/paul/Desktop/Gen_sourceCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paul/Desktop/Gen_sourceCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
